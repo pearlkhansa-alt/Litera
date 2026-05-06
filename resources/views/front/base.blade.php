@@ -71,10 +71,12 @@
 
             <!-- RIGHT: Desktop -->
             <div class="hidden md:block z-10">
+              <a href="{{ route('dashboard') }}">
                 <button
                     class="font-Robotomono border px-4 py-1 rounded-md text-sm hover:bg-[#1f1f1f] hover:text-white transition">
-                    Masuk
+                    Login Admin
                 </button>
+                </a>
             </div>
 
             <!-- ================= MOBILE ================= -->
@@ -112,7 +114,7 @@
 
                     <ul class="flex flex-col p-2">
                         <li class="px-4 py-2 hover:bg-gray-100 cursor-pointer rounded">
-                            <a href="">Masuk</a>
+                            <a href="{{ route('dashboard') }}">Login Admin</a>
                         </li>
                         <!-- <li class="px-4 py-2 hover:bg-gray-100 cursor-pointer rounded">
                             <a href="">Lokasi</a>
