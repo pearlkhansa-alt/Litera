@@ -68,7 +68,7 @@
                    <div>
                        <div class="flex items-center justify-between mb-1.5">
                            <label for="password" class="block text-sm font-600 text-gray-700">
-                               Password
+                               Password nya
                            </label>
                            <a href="#" class="text-xs text-blue-500 hover:text-blue-700 font-500 transition-colors">
                                Lupa password?
