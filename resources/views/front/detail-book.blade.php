@@ -146,7 +146,7 @@
 
         <!-- SYARAT -->
         <div class="mt-6">
-          <h3 class="font-semibold mb-2 font-Outfit">Syarat Peminjaman</h3>
+          <h3 class="font-semibold mb-2 font-Outfit">Syarat Peminjaman nya ini yaa</h3>
           <ul class="list-disc ml-5 text-sm text-gray-700 space-y-1 font-Outfit">
             <li>Pastikan kamu sudah punya akun ya 😉</li>
             <li>Pilih dan pinjam buku langsung lewat website</li>
