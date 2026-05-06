@@ -40,8 +40,8 @@
 
                <!-- {{-- Logo & Header --}} -->
                <div class="text-center mb-8">
-                   <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-gradient-to-br from-blue-500 to-green-500 mb-4 shadow-lg shadow-blue-300/40 logo-icon">
-                    <i class="ri-book-open-line text-white text-2xl"></i>                   
+                   <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-linear-to-br from-blue-500 to-green-500 mb-4 shadow-lg shadow-blue-300/40 logo-icon">
+                    <i class="ri-book-shelf-line text-white text-2xl "></i>                  
                 </div>
                    <h1 class="font-display text-2xl font-800 text-gray-900 leading-tight">Selamat datang! 👋</h1>
                    <p class="text-gray-500 text-sm mt-1">Masuk ke akun E-Library kamu</p>
