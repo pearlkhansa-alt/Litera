@@ -499,9 +499,8 @@
                                         “
                                     </div>
                                     <p class="text-sm leading-relaxed">
-                                        E-library ini sangat membantu saya dalam meminjam buku tanpa harus datang ke
-                                        perpustakaan.
-                                        Sangat praktis dan cepat.
+                                        Aku biasanya males ke perpustakaan, tapi sejak ada web ini jadi lebih praktis.
+                                        Semua bisa diakses dari rumah.
                                     </p>
                                 </div>
 
@@ -511,8 +510,8 @@
                                             class="w-full h-full object-cover transition duration-300 group-hover:scale-105" />
                                     </div>
                                     <div>
-                                        <p class="text-sm">Alya</p>
-                                        <p class="text-green-400 text-xs">Pelajar SMK</p>
+                                        <p class="text-sm">Naqiyya</p>
+                                        <p class="text-green-400 text-xs">Siswa</p>
                                     </div>
                                 </div>
 
@@ -563,8 +562,8 @@
                             “
                         </div>
                         <p class="text-sm font-Robotomono">
-                            E-library ini sangat membantu saya dalam meminjam buku tanpa harus datang ke perpustakaan.
-                            Sangat praktis dan cepat.
+                            Menurutku ini solusi terbaik buat yang suka baca tapi ga mau ribet.
+                            Pinjam buku jadi lebih modern.
                         </p>
                     </div>
 
@@ -572,8 +571,8 @@
                         <img src="./assets/Cover 1.png"
                             class="w-10 h-10 rounded object-cover transition duration-300 group-hover:scale-105" />
                         <div>
-                            <p class="text-sm">Alya</p>
-                            <p class="text-lime-400 text-xs">Pelajar SMK</p>
+                            <p class="text-sm">Rizki</p>
+                            <p class="text-lime-400 text-xs">Mahasiswa</p>
                         </div>
                     </div>
 
@@ -589,8 +588,8 @@
                             “
                         </div>
                         <p class="text-sm font-Robotomono">
-                            E-library ini sangat membantu saya dalam meminjam buku tanpa harus datang ke perpustakaan.
-                            Sangat praktis dan cepat.
+                           Buku yang tersedia cukup banyak dan mudah dicari.
+                           Sistemnya juga simpel, jadi ga bikin bingung.
                         </p>
                     </div>
 
@@ -598,8 +597,8 @@
                         <img src="./assets/Cover 1.png"
                             class="w-10 h-10 rounded object-cover transition duration-300 group-hover:scale-105" />
                         <div>
-                            <p class="text-sm">Alya</p>
-                            <p class="text-lime-400 text-xs">Pelajar SMK</p>
+                            <p class="text-sm">Fajar Nugraha</p>
+                            <p class="text-lime-400 text-xs">Mahasiswa</p>
                         </div>
                     </div>
 

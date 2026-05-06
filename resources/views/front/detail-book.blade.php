@@ -21,9 +21,9 @@
       <div class="flex-1 mt-6 md:mt-0">
 
         <!-- TITLE -->
-        <p class="text-gray-600 text-sm mb-1 font-Outfit">Uketsu</p>
+        <p class="text-gray-600 text-sm mb-1 font-Outfit">{{ $book->author }}</p>
         <h1 class="text-2xl md:text-3xl font-medium text-gray-800 font-Outfit">
-          Teka-Teki Gambar Aneh
+          {{ $book->title }}
         </h1>
 
         <!-- INFO -->
@@ -50,7 +50,7 @@
         <div class="mt-4">
           <p class="text-sm text-[#1f1f1f] font-semibold mb-1 font-Outfit">Kategori</p>
           <span class="bg-[#E5E5E5] border px-4 py-1 rounded-full text-sm font-Outfit font-Robotomono">
-            Fiksi
+            {{ $book->category->name }}
           </span>
         </div>
 
@@ -160,8 +160,7 @@
         <div class="mt-6">
           <h3 class="font-semibold mb-2 font-Outfit">Deskripsi</h3>
           <p class="text-sm text-gray-600 leading-relaxed font-Outfit">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod,
-            nisl vel tincidunt lacinia, nunc nisl aliquam nunc.
+            {{ $book->description }}
           </p>
         </div>
 
@@ -177,17 +176,17 @@
 
             <div>
               <p class="text-gray-400">Tahun Terbit</p>
-              <p>2026</p>
+              <p>{{ $book->year }}</p>
             </div>
 
             <div>
               <p class="text-gray-400">Kategori Buku</p>
-              <p>Fiksi</p>
+              <p>{{ $book->category->name }}</p>
             </div>
 
             <div>
               <p class="text-gray-400">Penulis</p>
-              <p>Uketsu</p>
+              <p>{{ $book->author }}</p>
             </div>
           </div>
 
